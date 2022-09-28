@@ -1,7 +1,7 @@
 # Liver-transplant-survival-predicter
 
 ## Overview
-This project aims to predict liver transplant mortality with in Post-op (90 days). This project was conducted by feeding over 200 different medical parameters (Blood type, Age, Sex, History of drug use, etc.) from the donor and patient into different machine learning algorithms which allows us to find the most optimal machine learning algorithm to predict patient survial after a liver transplant surgery.
+This project aims to predict liver transplant mortality with in Post-op (90 days). This project was conducted by feeding over 200 different medical parameters (Blood type, Age, Sex, History of drug use, etc.) from the donor and patient into different machine learning algorithms. Then based on the results the most optimal machine learning algorithm was selected to predict patient survial after a liver transplant surgery.
 
 
 ## Machine learning algorthims tested
