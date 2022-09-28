@@ -7,7 +7,7 @@ This project aims to predict liver transplant survival with in Post-op (90 days)
 ## Machine learning algorthims tested
 - Support Vector Machines (linear, polynomial, radial basis function, sigmoid)
 - Multilayered Perceptron
-- SGD regression
+- SGD classifier
 
 ## Data
 The liver dataset was not posted due to the size of the dataset, although some partial datasets are posted.
