@@ -14,5 +14,5 @@ The liver dataset was not posted due to the size of the dataset, although some p
 The full list of medical parameters used in this project are located in the All_features.csv file
 
 ## Summary
-The Multilayered Perceptron machine learning algorithm performed the best with a 96.71% accuracy rate in predicting liver transplant survival in Post-op.
+The Multilayered Perceptron machine learning algorithm performed the best with a 96.71% accuracy rate in predicting liver transplant survival in Post-op on test dataset.
 
